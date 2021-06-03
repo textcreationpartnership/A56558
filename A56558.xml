@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A passionate satyr upon a devillish great he-whore that lives yonder at Rome</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56558</idno><idno type="EEBO-CITATION">11875874</idno>
+  <idno type="VID">50238</idno>
+  <idno type="EEBO-PROQUEST">2248514725</idno>
+  
+            <idno type="STC">Wing P662</idno>
+            <idno type="STC">ESTC R1354</idno>
+            <idno type="OCLC">11875874</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 504:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A passionate satyr upon a devillish great he-whore that lives yonder at Rome</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50238:1"/>
+            <pb n="1" facs="tcp:50238:1"/>
+            <head>A PASSIONATE SATYR Upon a Devillish Great HE-VVHORE That lives yonder at ROME.</head>
+            <lg>
+               <l>APox on the Pope, with his damn'd bald Pate,</l>
+               <l>What a stir hath this To<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d made here of late;</l>
+               <l>Such a Noise and a horrible Glamour</l>
+               <l>Is here with this Whore, a Plague of God on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er.</l>
+               <l>Must Majesty fall and wallow in Blood</l>
+               <l>For a Whore's Quarrel that's not worth a Turd?</l>
+               <l>Must the Kingdom and State be at a loss,</l>
+               <l>Leave their sweet Peace to lye under a Cross?</l>
+               <l>Must Church and Church-men be exposed to foorns,</l>
+               <l>Tost up and down by a Beast with ten Horns?</l>
+               <l>Must Christians that know no more but one God</l>
+               <l>Worship ten thousand, or be scourg'd with a Rod?</l>
+               <l>Must Beads, and a Cross, and a Relique from <hi>Jone,</hi>
+               </l>
+               <l>Make us fall down to Prayers right or wrong?</l>
+               <l>Must Hobgoblin Mass, that's learn'd of Old-Nick,</l>
+               <l>Complement God for the Well and the Sick?</l>
+               <l>Must Water bless'd by a Conjuring Monk</l>
+               <l>Scoure away Sins from a Pockyfi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Punk?</l>
+               <pb n="2" facs="tcp:50238:2"/>
+               <l>Must Souls be pray'd out, the Devil hath got,</l>
+               <l>At so much <hi>per</hi> Mass, Hello there they must rot?</l>
+               <l>Must Sinners be say'd by Old Sinning Gulls?</l>
+               <l>I'll n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eg your Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>don, those are damn'd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulls.</l>
+               <l>Must We, <hi>Canibal</hi> l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke, eat up our God,</l>
+               <l>Or else must We not in Heaven have aboad?</l>
+               <l>Must Fire and Wood burn all that won't bow,</l>
+               <l>Worship S. <hi>Doll,</hi> and the Devil knows who?</l>
+               <l>Must Ignorance be our Guide to Glory,</l>
+               <l>Then Heaven I'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n sure is <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Story.</l>
+               <l>Must all Men b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> blind that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir Eyes,</l>
+               <l>That Priests may do what they please with their Wives?</l>
+               <l>Must killing of Kings, and Princes to boot</l>
+               <l>Be Marks that the Pope is sound at the Root?</l>
+               <l>Must a Concl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>veos Rog<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and <hi>Jesuit</hi> Priests,</l>
+               <l>Perswade all the World to worship the Beast?</l>
+               <l>Must the Pope order all by Sea and by Land,</l>
+               <l>Who must turn out, and who is to stand?</l>
+               <l>Must those be intrusted that swear and receive</l>
+               <l>Whate're you impose, that they may deceive?</l>
+               <l>Must <hi>Judas</hi> be saved that eat of the Sop?</l>
+               <l>No, by the Mass, he deserved the Rope:</l>
+               <l>Must such be employed at Sea and at Shore,</l>
+               <l>That would subvert all to set up the Whore?</l>
+               <l>Must those be good that designed to seem such?</l>
+               <l>Who in Parliament time subscrib'd to the Church:</l>
+               <l>Must We all be undone by a damn'd Popish Crew,</l>
+               <l>Some that is about us, and some We ne're knew?</l>
+               <l>Must the King and his Friends see and know this,</l>
+               <l>And yet be advised that nothing's amiss?</l>
+               <l>Must this be the Trap, then the Devil take it,</l>
+               <l>Our Hogs We've brought to a blessed Market.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50238:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
